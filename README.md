@@ -1,6 +1,6 @@
 # moai-manual
 
-[SCOP](https://scmopt.github.io/moai-manual/14scop.html)
+[SCOP](https://scmopt.github.io/moai-manual/scop.html)
 
-[OptSeq](https://scmopt.github.io/moai-manual/07optseq.html)
+[OptSeq](https://scmopt.github.io/moai-manual/optseq.html)
 
